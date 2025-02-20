@@ -1,3 +1,8 @@
+/*  
+3) Faça um programa em Java que receba 3 notas de um aluno e seus respectivos pesos, calcule e informe a
+média ponderada.
+*/
+
 import java.util.Scanner;
 
 public class Q3 {

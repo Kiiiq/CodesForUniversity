@@ -1,3 +1,13 @@
+/*
+8) A escola “APRENDER” faz o pagamento de seus professores por hora/aula. Faça um programa em Java que
+receba o enquadramento do professor e a quantidade de horas trabalhadas, calcule e exiba o salário do
+professor. Sabe-se que o valor da hora/aula segue a tabela abaixo:
+Enquadramento Valor da hora/aula
+Nível 1 R$12,00
+Nível 2 R$17,00
+Nível 3 R$25,00
+*/
+
 import java.util.HashMap;
 import java.util.Scanner;
 

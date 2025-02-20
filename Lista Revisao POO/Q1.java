@@ -1,4 +1,7 @@
-
+/*  
+1) Faça um programa em Java que receba uma temperatura em centígrados e transforme para fahrenheit.
+Sabe-se que a fórmula para conversão é F=((9.C)+160)/5.
+*/
 
 import java.util.Scanner;
 

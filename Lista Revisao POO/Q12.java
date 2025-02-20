@@ -1,3 +1,13 @@
+/* 
+12) Faça um programa que receba vários números positivos, calcule e mostre:
+    a) a soma dos números digitados;
+    b) a quantidade de números digitado;
+    c) a média dos números digitados;
+    d) o maior número digitado;
+    e) o menor número digitado;
+    f) a média dos números pares.
+*/
+
 import java.util.Scanner;
 
 public class Q12 {
@@ -24,6 +34,8 @@ public class Q12 {
                 qntdpar++;
             }        
         }
+
+        scanner.close();
 
         System.out.println("Soma dos Numeros:"+media+
                            "\nQuantidade de Numeros:" + quantidade +

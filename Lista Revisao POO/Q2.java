@@ -1,3 +1,8 @@
+/*
+2) Faça um programa em Java que solicite a hora atual (expressa em horas, minutos e segundos) ao usuário e
+informe quantos segundos do dia já passaram. 
+*/
+
 
 import java.util.Scanner;
 

@@ -1,3 +1,11 @@
+/* 
+11) Escreva um programa para ler o nome do cliente e o saldo inicial de uma conta bancária. A seguir ler um
+número indeterminado de pares de valores indicando respectivamente o tipo da operação (codificado da
+seguinte forma: 1.Depósito 2.Retirada 3.Fim) e o valor. Quando for informado para o tipo o código 3, o
+programa deve ser encerrado e impresso o saldo final da conta com as seguintes mensagens: CONTA ZERADA,
+CONTA ESTOURADA(se o saldo for negativo) ou CONTA PREFERENCIAL (se o saldo for positivo).
+*/
+
 import java.util.Scanner;
 
 public class Q11 {

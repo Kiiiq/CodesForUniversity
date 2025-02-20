@@ -1,3 +1,9 @@
+/* 
+10)Faça um programa que receba um número e informe se é um termo da sequência de Fibonacci. Na
+sequência de Fibonacci cada termo é a soma dos dois termos anteriores:
+1, 1, 2, 3, 5, 8, 13...
+*/
+
 import java.util.Scanner;
 
 public class Q10 {
