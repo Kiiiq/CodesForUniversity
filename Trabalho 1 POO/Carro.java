@@ -1,9 +1,9 @@
 import java.util.Random;
 
 public class Carro {
-    Random random= new Random();
-    int posicao=0;
-    char carImage;
+    private Random random= new Random();
+    private int posicao=0;
+    private char carImage;
 
     public Carro(char t){
         carImage=t;
@@ -11,6 +11,10 @@ public class Carro {
 
     public int getPosicao(){
         return posicao;
+    }
+
+    public char getCarImage() {
+        return carImage;
     }
 
     public void mostrarCarro(){
